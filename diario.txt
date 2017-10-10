@@ -1,0 +1,20 @@
+20171010
+
+Repaso de operaciones de git
+
+Configuración inicial del git
+
+git config --global user.name roberfuentes
+git config --global user.email roberinstituto97@institutoserpis.org
+git config --global push.default simple
+
+Clonado:
+git clone https://github.com/roberfuentes/ed.git
+
+Nueva versión:
+git add diario.txt (marca el fichero diario.txt)
+git commit - m "Resumen de la nueva versión de git"
+
+Publicación en remoto:
+
+git push
