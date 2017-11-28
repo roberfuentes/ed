@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{4E2E5F11-F067-4935-BC54-C05B247F098C}</ProjectGuid>
+    <ProjectGuid>{34745044-C3A9-41CD-9D1A-F812DC9374AB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>CGtk</RootNamespace>
     <AssemblyName>CGtk</AssemblyName>
