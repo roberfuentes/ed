@@ -18,3 +18,11 @@ git commit - m "Resumen de la nueva versión de git"
 Publicación en remoto:
 
 git push
+
+
+21112017
+
+sudo apt update
+
+instalación monodevelop:
+sudo apt install monodevelop
