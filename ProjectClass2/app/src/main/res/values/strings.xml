@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectClass</string>
+
+    <string-array name="names">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+        <item>All</item>
+    </string-array>
+</resources>
